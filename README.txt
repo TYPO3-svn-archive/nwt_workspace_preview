@@ -9,3 +9,4 @@ tx_modulecleaner.disable = help_cshmanual, help_aboutmodules, help_about, help
 -------------------------------------------------------
 
 Make sure you change the startpage of the backend or the user will get an error message.
+
